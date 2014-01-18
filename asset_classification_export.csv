@@ -1,0 +1,13 @@
+asset_classification_id,asset_classification_name,asset_classification_criteria,asset_classification_type, asset_classification_value, asset_classification_disabled
+1,Low,low,Impact High, 1,0
+2,High,high,Impact High, 3,0
+3,Low,hweddkhkwsdnckbn,Impact High, 1,0
+4,Lowg,fgtujyf,Impact Highgt, 4,0
+5,Medium,bfgrbfg ,Impact High, 1,0
+6,small,small,Big, 1,0
+7,Low,low,Impact, 2,0
+8,Big,Big,Impact High, 5,0
+9,Medium,svwsvvg ,Big, 5,0
+10,fdgtdrgftfd,fdhgf,Impact High, 1,0
+11,Medium,rfthtn ,Impact High, 3,0
+12,Medium,hi,Impact High, 4,0
